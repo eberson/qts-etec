@@ -1,0 +1,7 @@
+#esse arquivo mantem informacoes sobre as dependencias do nosso projeto ruby
+
+# indica de onde devemos baixar as dependencias
+source "https://rubygems.org"
+
+gem "cucumber", "~> 3.1.0"
+gem "rspec", "~> 3.7.0"
